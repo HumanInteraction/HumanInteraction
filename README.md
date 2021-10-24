@@ -76,7 +76,7 @@ Translations done so far:
 [Macedonian](https://stosto2.github.io/trust/),
 [Slovenian](https://matejko124.github.io/trust/),
 [Armenian](https://kamee.gitlab.io/trust/),
-[Filipino (Tagalog)](https://tiwalaph.github.io/TiwalaPH/)
+[Filipino (Tagalog)](https://tiwalaph.github.io/TiwalaPH/),
 [Esperanto](https://januscahill.github.io/trust/)
 
 **Step 1)** Fork or download this repo    
