@@ -10,7 +10,7 @@ html,body{
 }
 
 body{
-	
+
 	margin:0;
 	overflow: hidden;
 
@@ -23,15 +23,15 @@ body{
 }
 #preloader{
 	position: absolute;
-    margin: auto;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    width: 200px;
-    height: 50px;
-    font-size: 30px;
-    text-align: center;
+	margin: auto;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	width: 200px;
+	height: 50px;
+	font-size: 30px;
+	text-align: center;
 }
 #main{
 	width: 100%;
@@ -52,12 +52,12 @@ s{
 
 #translations{
 	margin: 10px auto;
-    font-size: 10.5px;
-    line-height: 19px;
-    color: #fff;
-    text-align: center;
-    width: 960px;
-    letter-spacing: -0.5px;
+	font-size: 10px;
+	line-height: 19px;
+	color: #fff;
+	text-align: center;
+	width: 960px;
+	letter-spacing: -0.5px;
 }
 #translations a{
 	color:#dd4040;
@@ -92,8 +92,8 @@ s{
 }
 #sound #sound_on, #sound #sound_off{
 	left: 52px;
-    font-size: 30px;
-    line-height: 55px;
+	font-size: 30px;
+	line-height: 55px;
 }
 #sound #sound_on{
 	color:#fff;
@@ -130,11 +130,11 @@ s{
 #slideshow_container{
 	width:0; height:0;
 	position:absolute;
-	margin:auto; 
+	margin:auto;
 	top:0; left:0; right:0; bottom:0;
 }
 #slideshow{
-	
+
 	/*border: 1px solid rgba(0,0,0,0.2);*/
 	width:960px;
 	height:540px;
@@ -201,7 +201,7 @@ s{
 	cursor: default;
 }
 .button #text{
-	
+
 	font-family: 'FuturaHandwritten';
 	color: #000;
 	font-size: 23px;
@@ -248,7 +248,7 @@ s{
 .button[size=short] #text{
 	width:105px;
 	/*font-size: 18px;
-    top: 18px;*/
+	top: 18px;*/
 }
 .button[size=short] #hitbox{
 	width:115px;
@@ -269,7 +269,7 @@ s{
 	width:345px;
 }
 .button:active{
-    transform: scale(0.95, 0.95);
+	transform: scale(0.95, 0.95);
 }
 
 
@@ -287,7 +287,7 @@ s{
 	-webkit-user-select: none;  /* Chrome all / Safari all */
 	-moz-user-select: none;     /* Firefox all */
 	-ms-user-select: none;      /* IE 10+ */
-	user-select: none; 
+	user-select: none;
 	cursor: default;
 }
 #sandbox_tabs > div{
@@ -315,9 +315,9 @@ s{
 	width:50px; height:50px;
 	font-size: 25px;
 	text-align: center;
-    top: -16px;
-    left: -25px;
-    cursor: default;
+	top: -16px;
+	left: -25px;
+	cursor: default;
 }
 .incdec > .incdec_control{
 	left:-10px;
@@ -373,9 +373,9 @@ s{
 }
 .sandbox_pop_label{
 	font-size: 18px;
-    width: 150px;
-    top: 8px;
-    left: 50px;
+	width: 150px;
+	top: 8px;
+	left: 50px;
 }
 
 /*************************/
@@ -412,11 +412,11 @@ s{
 }
 #scoreboard > div:nth-child(1){
 	left: 20px;
-    top: 21px;
+	top: 21px;
 }
 #scoreboard > div:nth-child(2){
 	right: 15px;
-    top: 21px;
+	top: 21px;
 }
 
 /*************************/
@@ -433,7 +433,7 @@ s{
 	width: 105px;
 	height: 114px;
 	top: -5px;
-    left: -10px;
+	left: -10px;
 }
 .character #desc{
 	width: calc(100% - 100px);
@@ -466,13 +466,13 @@ s{
 	background-size: auto 100%;
 	display: inline-block;
 	position: relative;
-    top: 1px;
+	top: 1px;
 }
 .icon_label{
 	display: inline-block;
 	font-size: 20px;
 	position: relative;
-    top: -3px;
+	top: -3px;
 }
 .tft .icon{ 		background-position: 0 0; }
 .all_d .icon{ 	background-position: -25px 0; }
@@ -505,7 +505,7 @@ s{
 #select{
 	width:100%;
 	text-align: center;
-    padding-top: 15px;
+	padding-top: 15px;
 }
 #select .dot{
 	width: 30px;
@@ -542,4 +542,3 @@ s{
 .credits a:hover{
 	color:#ee5151;
 }
-
